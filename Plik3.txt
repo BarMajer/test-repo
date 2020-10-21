@@ -1,4 +1,4 @@
-Zmiana 07b
+Zmiana 07b a
 Dodano asystenta pomocy
 Uproszczenie interfejsu graficznego
 Zmiana
