@@ -3,4 +3,8 @@ Zmiana 02 Zmiana 02a
 Zmiana 03 Zmiana 08
 Zmiana 05
 Zmiana 07
+Naprawa błędów - hotFix-001
+Dodano asystenta pomocy
+easierApp
+Zmiana 09
 
