@@ -7,4 +7,5 @@ Naprawa błędów - hotFix-001
 Dodano asystenta pomocy
 easierApp
 Zmiana 09
+zmaiana
 
